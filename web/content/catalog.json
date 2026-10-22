@@ -1,0 +1,40 @@
+{
+  "app": "KENOZ",
+  "version": 1,
+  "languages": [
+    "ar"
+  ],
+  "sections": [
+    {
+      "id": "agpeya",
+      "title": "الأجبية",
+      "file": "sample.json"
+    },
+    {
+      "id": "kholagy",
+      "title": "الخولاجي",
+      "file": "sample.json"
+    },
+    {
+      "id": "katamars",
+      "title": "القطمارس",
+      "file": "sample.json"
+    },
+    {
+      "id": "synaxarium",
+      "title": "السنكسار",
+      "file": "sample.json"
+    },
+    {
+      "id": "tasbeha",
+      "title": "التسبحة السنوية",
+      "file": "sample.json"
+    },
+    {
+      "id": "psalmody",
+      "title": "الإبصلمودية",
+      "file": "sample.json"
+    }
+  ],
+  "note": "الفهرس يحدد الأقسام فقط؛ يجب استيراد النصوص الكاملة ومراجعتها قبل اعتبار أي قسم مكتملًا."
+}
